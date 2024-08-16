@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729916762408",
+    "project_id": "vilfik-carryon",
+    "storage_bucket": "vilfik-carryon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729916762408:android:c328377b15522943b4081d",
+        "android_client_info": {
+          "package_name": "com.vilfik.carryon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFV-8K40lf3nCFQ4zu-lCMtBUEHxKznN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
